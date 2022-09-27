@@ -1,0 +1,11 @@
+inherited frm_Calculadora_SmXhdpiPh: Tfrm_Calculadora_SmXhdpiPh
+  ClientHeight = 375
+  ClientWidth = 250
+  DesignerMasterStyle = 0
+  inherited btn_8: TButton
+    TabOrder = 8
+  end
+  inherited btn_mult: TButton
+    TabOrder = 10
+  end
+end

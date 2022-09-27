@@ -1,0 +1,11 @@
+inherited frm_Calculadora_iPhone4in: Tfrm_Calculadora_iPhone4in
+  ClientHeight = 548
+  ClientWidth = 320
+  DesignerMasterStyle = 0
+  inherited btn_8: TButton
+    TabOrder = 7
+  end
+  inherited btn_mult: TButton
+    TabOrder = 9
+  end
+end

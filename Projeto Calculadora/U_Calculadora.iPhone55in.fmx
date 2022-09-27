@@ -1,0 +1,12 @@
+inherited frm_Calculadora_iPhone55in: Tfrm_Calculadora_iPhone55in
+  Caption = 'S'
+  ClientHeight = 716
+  ClientWidth = 414
+  DesignerMasterStyle = 0
+  inherited btn_8: TButton
+    TabOrder = 8
+  end
+  inherited btn_mult: TButton
+    TabOrder = 10
+  end
+end

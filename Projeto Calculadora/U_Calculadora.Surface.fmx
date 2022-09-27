@@ -1,0 +1,11 @@
+inherited frm_Calculadora_Surface: Tfrm_Calculadora_Surface
+  ClientHeight = 1920
+  ClientWidth = 1080
+  DesignerMasterStyle = 0
+  inherited btn_8: TButton
+    TabOrder = 8
+  end
+  inherited btn_mult: TButton
+    TabOrder = 10
+  end
+end

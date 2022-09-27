@@ -1,0 +1,12 @@
+inherited frm_Calculadora_Windows: Tfrm_Calculadora_Windows
+  ClientHeight = 382
+  ClientWidth = 762
+  Position = Designed
+  DesignerMasterStyle = 0
+  inherited btn_8: TButton
+    TabOrder = 6
+  end
+  inherited btn_mult: TButton
+    TabOrder = 8
+  end
+end
